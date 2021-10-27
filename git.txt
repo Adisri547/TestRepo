@@ -1,0 +1,15 @@
+
+create branch - git branch aditya
+check branches - git branch
+switch master to aditya - git checkout aditya
+git pull origin master
+
+---------------------------------------------
+git clone <>
+git branch aditya
+git add .
+git status
+git commit -m "done"
+git pull
+git push -u origin aditya
+
